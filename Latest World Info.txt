@@ -1,0 +1,38 @@
+{
+  "name": "Latest World Info",
+  "short_name": "Latest World Info",
+  "start_url": "https://latest-worldinfo.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Share the latest info from various parts of the world",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-SGhQVbzR2wU/XDb5kdyWVrI/AAAAAAAANDA/Ao2YgKLnNz0ad3mecn2WhHwN6Y_Lb4wAgCLcBGAs/s48/world-info.jpg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-SGhQVbzR2wU/XDb5kdyWVrI/AAAAAAAANDA/Ao2YgKLnNz0ad3mecn2WhHwN6Y_Lb4wAgCLcBGAs/s72/world-info.jpg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-SGhQVbzR2wU/XDb5kdyWVrI/AAAAAAAANDA/Ao2YgKLnNz0ad3mecn2WhHwN6Y_Lb4wAgCLcBGAs/s96/world-info.jpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-SGhQVbzR2wU/XDb5kdyWVrI/AAAAAAAANDA/Ao2YgKLnNz0ad3mecn2WhHwN6Y_Lb4wAgCLcBGAs/s144/world-info.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-SGhQVbzR2wU/XDb5kdyWVrI/AAAAAAAANDA/Ao2YgKLnNz0ad3mecn2WhHwN6Y_Lb4wAgCLcBGAs/s168/world-info.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-SGhQVbzR2wU/XDb5kdyWVrI/AAAAAAAANDA/Ao2YgKLnNz0ad3mecn2WhHwN6Y_Lb4wAgCLcBGAs/s192/world-info.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-SGhQVbzR2wU/XDb5kdyWVrI/AAAAAAAANDA/Ao2YgKLnNz0ad3mecn2WhHwN6Y_Lb4wAgCLcBGAs/s512/world-info.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
